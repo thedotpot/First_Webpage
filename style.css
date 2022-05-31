@@ -152,3 +152,40 @@ body{
     margin: 0 auto;
     margin-bottom: 50px;
 }
+
+.background3{
+    width: 100%;
+    height: auto;
+    background-color: rgb(235, 232, 232);
+}
+
+.inner3{
+    width: 70%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    font-family: sans-serif;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    
+}
+
+.Inside{
+    width: 60%;
+    margin: 0 auto;
+
+}
+
+.Inspiring-quote{
+    font-style: italic;
+    font-size: 22px;
+    font-weight: lighter;
+    color: rgb(122, 118, 118);
+    
+}
+
+.thor{
+    display: flex;
+    justify-content: flex-end;
+    font-size: 14px;
+}
