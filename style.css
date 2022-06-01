@@ -21,6 +21,12 @@ body{
   
 
 }
+
+
+a{
+    text-decoration: none;
+    color: white;
+}
 .logo{
     display: flex;
     justify-content: flex-start;
@@ -257,7 +263,7 @@ body{
     background-color: #1F2937;
     display: flex;
     justify-content: center;
-    margin: 0;
+    margin-bottom: 0;
 }
 
 .innerheader5{
@@ -265,6 +271,7 @@ body{
     display: flex;
     justify-content: center;
     padding: 8px;
+    
 
     
 
@@ -273,6 +280,7 @@ body{
 .Copyright{
     color: white;
 }
+
 
 
 
